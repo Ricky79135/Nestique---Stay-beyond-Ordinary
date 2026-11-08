@@ -1,0 +1,6 @@
+{
+  "name": "Sanctuary Editorial Residences",
+  "description": "Quiet architectural luxury and curated retreat reservations with MongoDB backend persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
